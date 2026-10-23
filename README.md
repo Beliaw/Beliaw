@@ -69,11 +69,11 @@ I'm open to collaborating on AI/ML projects, security tools, and CTF teams, and 
 
 <div align="center">
 
+<img src="[https://capsule-render.vercel.app/api?type=blur&height=255&color=gradient&section=footer&reversal=true&text=Growing+by+Learning&textBg=false&fontSize=50&fontAlign=50&fontAlignY=59&animation=fadeIn&rotate=0&strokeWidth=0&descSize=17&descAlign=50&descAlignY=60](https://capsule-render.vercel.app/api?type=blur&height=255&color=gradient&section=footer&reversal=true&text=Growing+by+Learning&textBg=false&fontSize=50&fontAlign=50&fontAlignY=54&animation=fadeIn&rotate=0&strokeWidth=0&descSize=17&descAlign=50&descAlignY=60)" />
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sluuurs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syahrul-m-ba19b836b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syahru33411@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/583210897099456513)
-
-<img src="https://capsule-render.vercel.app/api?type=blur&height=255&color=gradient&section=footer&reversal=true&text=Growing+by+Learning&textBg=false&fontSize=50&fontAlign=50&fontAlignY=59&animation=fadeIn&rotate=0&strokeWidth=0&descSize=17&descAlign=50&descAlignY=60" />
 
 </div>
