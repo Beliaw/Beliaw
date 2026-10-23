@@ -69,7 +69,8 @@ I'm open to collaborating on AI/ML projects, security tools, and CTF teams, and 
 
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=blur&height=255&color=gradient&section=footer&reversal=true&text=Growing+by+Learning&textBg=false&fontSize=50&fontAlign=50&fontAlignY=59&animation=fadeIn&rotate=0&strokeWidth=0&descSize=17&descAlign=50&descAlignY=60](https://capsule-render.vercel.app/api?type=blur&height=255&color=gradient&section=footer&reversal=true&text=Growing+by+Learning&textBg=false&fontSize=50&fontAlign=50&fontAlignY=54&animation=fadeIn&rotate=0&strokeWidth=0&descSize=17&descAlign=50&descAlignY=60)" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=255&color=gradient&section=footer&reversal=true&text=Growing+by+Learning&textBg=false&fontSize=50&fontAlign=50&fontAlignY=54&animation=fadeIn&rotate=0&strokeWidth=0&descSize=17&descAlign=50&descAlignY=60"/>
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sluuurs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syahrul-m-ba19b836b)
