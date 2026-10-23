@@ -74,6 +74,6 @@ I'm open to collaborating on AI/ML projects, security tools, and CTF teams, and 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syahru33411@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/583210897099456513)
 
-<img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&section=footer&reversal=false&text=Growing+by+Learning&textBg=false&fontSize=50&fontAlign=50&fontAlignY=56&animation=fadeIn&rotate=0&strokeWidth=0&descSize=17&descAlign=50&descAlignY=60" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=255&color=gradient&section=footer&reversal=true&text=Growing+by+Learning&textBg=false&fontSize=50&fontAlign=50&fontAlignY=59&animation=fadeIn&rotate=0&strokeWidth=0&descSize=17&descAlign=50&descAlignY=60" />
 
 </div>
