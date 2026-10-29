@@ -62,20 +62,7 @@ I'm open to collaborating on AI/ML projects, security tools, and CTF teams, and 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Beliaw&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&border_color=30363D&border_radius=14&hide_border=false" alt="GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beliaw&layout=donut&langs_count=8&theme=transparent&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=14&hide_border=false" alt="Top languages" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Beliaw&theme=transparent&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=30363D&border=30363D&border_radius=14" alt="GitHub streak" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Beliaw&theme=tokyonight" width="49%" alt="Profile details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Beliaw&theme=tokyonight" width="24%" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Beliaw&theme=tokyonight" width="24%" alt="Most commit language" />
-</p>
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Beliaw&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&border_color=30363D&border_radius=14&hide_border=false" alt="GitHub stats" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beliaw&layout=donut&langs_count=8&theme=transparent&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=14&hide_border=false" alt="Top languages" /> <img src="https://streak-stats.demolab.com?user=Beliaw&theme=transparent&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=30363D&border=30363D&card_width=800&border_radius=14" alt="GitHub streak" /> <br/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Beliaw&theme=tokyonight" width="49%" alt="Profile details" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Beliaw&theme=tokyonight" width="24%" alt="Repos per language" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Beliaw&theme=tokyonight" width="24%" alt="Most commit language" /> <br/>  </div>
 
 ## Let's Connect
 
