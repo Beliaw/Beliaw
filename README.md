@@ -77,3 +77,8 @@ I'm open to collaborating on AI/ML projects, security tools, and CTF teams, and 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/583210897099456513)
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beliaw/Beliaw/output/github-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Beliaw/Beliaw/output/github-snake.svg" />
+</picture>
